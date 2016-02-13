@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meme</string>
+    <string name="action_settings">Settings</string>
+    <string name="myMeme">My Meme</string>
+</resources>
